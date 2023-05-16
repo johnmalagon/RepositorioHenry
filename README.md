@@ -1,2 +1,3 @@
-# RepositorioHenry
-este es un repositorio del modulo2 del prepcurso de henry
+este proyecto es un prueba de como crear un repositorio y clonanrlo desde github a el repositorio local 
+
+john malagon 
